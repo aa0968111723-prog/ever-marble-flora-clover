@@ -1,0 +1,41 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "專注力挑戰賽",
+      "hasCanvas": false,
+      "bodyTextLen": 166,
+      "bodyTextHash": "9b815e28ce550da34189b2c80a5655a152cc6527c26a5e5fbb5f9726a49385af",
+      "bodyTextPrefix": "龜龜在木廊上等你 淡江大學禪學社 · 社團博覽會 專注力挑戰賽 60 秒，看看你能不能讓眼睛和大腦合作。 社博當天最高分前 5 ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "專注力挑戰賽",
+      "hasCanvas": false,
+      "bodyTextLen": 166,
+      "bodyTextHash": "9b815e28ce550da34189b2c80a5655a152cc6527c26a5e5fbb5f9726a49385af",
+      "bodyTextPrefix": "龜龜在木廊上等你 淡江大學禪學社 · 社團博覽會 專注力挑戰賽 60 秒，看看你能不能讓眼睛和大腦合作。 社博當天最高分前 5 ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": true,
+  "baselineReasons": [
+    "desktop: body text changed (188 -> 166 chars, hash mismatch)",
+    "mobile: body text changed (188 -> 166 chars, hash mismatch)"
+  ]
+}
